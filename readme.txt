@@ -27,3 +27,4 @@ Implementing Github hook trigger for gitscm polling
 GitSCM
 github
 gittttt
+scmmmmm
